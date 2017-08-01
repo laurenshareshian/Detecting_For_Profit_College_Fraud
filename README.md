@@ -1,0 +1,1 @@
+Used XGBoost, Neural Nets, D3, and PostgreSQL in my analysis of college debt-to-earning ratios for students. The file Schools_Get_Data.ipynb gets the data from the government API. The file Schools_Analyze_Data.ipynb analyzes the data. The file index.html contains the D3 visualization.
